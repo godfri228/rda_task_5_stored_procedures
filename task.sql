@@ -1,3 +1,4 @@
+-- Stored procedure for ShopDB
 USE ShopDB;
 
 DROP PROCEDURE IF EXISTS get_warehouse_product_inventory;
